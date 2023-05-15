@@ -516,11 +516,11 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.4.3",
     "ansi-styles": "^5.0.0",
-    "base64-js": "^1.5.1",
     "binary-extensions": "^2.2.0",
     "browser-or-node": "^2.1.1",
     "expr-eval": "^2.0.2",
     "flat": "^5.0.2",
+    "js-tiktoken": "devel",
     "jsonpointer": "^5.0.1",
     "ml-distance": "^4.0.0",
     "object-hash": "^3.0.0",
