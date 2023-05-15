@@ -1,4 +1,4 @@
-import type { TiktokenModel } from "js-tiktoken";
+import type { TiktokenModel } from "js-tiktoken/lite";
 import { isNode } from "browser-or-node";
 import {
   Configuration,
