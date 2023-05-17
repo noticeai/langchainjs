@@ -84,9 +84,8 @@ export class Milvus extends VectorStore {
   };
 
   indexCreateParams = {
-    index_type: "HNSW",
+    index_type: "AUTO",
     metric_type: "L2",
-    params: JSON.stringify({ M: 8, efConstruction: 64 }),
   };
 
   indexSearchParams = JSON.stringify({ ef: 64 });
