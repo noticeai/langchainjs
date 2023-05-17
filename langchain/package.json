@@ -1,5 +1,5 @@
 {
-  "name": "langchain",
+  "name": "@noticeai/langchain",
   "version": "0.0.75",
   "description": "Typescript bindings for langchain",
   "type": "module",
